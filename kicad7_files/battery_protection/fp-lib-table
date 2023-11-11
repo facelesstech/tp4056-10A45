@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usb_footprint")(type "KiCad")(uri "${KIPRJMOD}/usb/usb_footprint.pretty")(options "")(descr ""))
+)
